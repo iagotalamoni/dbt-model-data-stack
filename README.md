@@ -1,7 +1,7 @@
 Passos de configuração:
 
 -> Editar o arquivo project
-  -> O nome do arquivo é dbt_project.yml
+  -> O nome do arquivo é dbt_project.yml <br>
   -> Alteramos o campo name (linha 5); o profile (linha 11); se atentar para mudar a linha 36 com o nome do prjeto (o que colocou na linha 5)
 
 -> Criar o arquivo de profile
