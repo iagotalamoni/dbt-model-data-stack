@@ -13,6 +13,8 @@ Passos de configuração:
   -> o arquivo schema.yml é utilizado para "explicar" para o dbt o que são os modelos
 
 -> Criar o modelo relacionado
+  -> Utilizamos os modelos base para fazer joins e criar uma tabela com todas as informações que queremos
+  -> no from temos o source (ele foi declarado no arquivo schema.yaml)
 
 -> Criar o schema
 
